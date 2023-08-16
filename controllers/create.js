@@ -1,1 +1,1 @@
-//Aqui foi implementado o código da funcionalidade de criar um novo usuário
+//Aqui foi implementado o código da funcionalidade de criar um novo item
